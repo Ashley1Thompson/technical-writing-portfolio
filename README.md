@@ -12,7 +12,7 @@ As a Support Engineer at DubBot I created documentation for every level of exper
 
 [An Instructional article on how to use the DubBot GA4 Connector](https://help.dubbot.com/en/articles/8324534-connecting-google-analytics-4). In this sample I have written instructions on connecting a users DubBot account to their Google Analytics property. Screenshots with image descriptions were used as additional guideance, following style guidelines like size and color of highlight arrows and border color and weight.
 
-[A one-page infographic on the impact of digital accessibility](). 
+[A one-page infographic on the impact of digital accessibility](https://docs.google.com/document/d/1RsQ3Gje0zr5VTYx0lmp1o8FZLn5OwMqL/edit?usp=sharing&ouid=101741644313905407634&rtpof=true&sd=true). This infographic flyer was created for our sales team to provide metrics to clients, both current and potential, regarding the various impacts of digital accessibility.
 
 ---
 
@@ -28,4 +28,4 @@ As a contractor in the fields of archaeology and paleontology I authored many te
 
 At Imagine That! and Future Tech I was responsible for creating new STEAM curricula for ages 4-14, as well as teacher guides. I also wrote training manuals for our large staff of teachers with very diverse professional backgrounds. Balancing the encouragement of creative expression in the classroom while maintaining a consistent educational experience was a fun challenge!
 
-(Machines, Mummies, and More!)[https://docs.google.com/document/d/1rQCRm4AkTVWbShVfGcLYcTH-ZOQsav2H/edit#heading=h.gjdgxs]. This curriculum inlcudes a teaching guide. The delivery of the course materials at Imagine That! was narrative, so there are many references back to the overarching storyline. All concepts are described fully to allow teachers to explain the concept to students without needing to do additional research. Photo examples and instructional diagrams are inlcuded. 
+[Machines, Mummies, and More!](https://docs.google.com/document/d/1rQCRm4AkTVWbShVfGcLYcTH-ZOQsav2H/edit#heading=h.gjdgxs). This curriculum inlcudes a teaching guide. The delivery of the course materials at Imagine That! was narrative, so there are many references back to the overarching storyline. All concepts are described fully to allow teachers to explain the concept to students without needing to do additional research. Photo examples and instructional diagrams are inlcuded. 
