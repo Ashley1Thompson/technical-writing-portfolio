@@ -1,6 +1,6 @@
 # technical-writing-portfolio
 
-I have more than 10 years of experience producing technical documentation in multiple contexts. I have produced video and text tutorials in the digital accessibility spacewritten STEM curricula, produced archaeological and paleontological technical reports, and maintained several knowledge bases in software, medical, and scientific fields. Below are some examples of my work. 
+I have more than 10 years of experience producing technical documentation in multiple contexts. I have produced video and text tutorials in the digital accessibility space, written STEAM curricula, produced archaeological and paleontological technical reports, and maintained several knowledge bases in software, medical, and scientific fields. Below are some examples of my work. 
 
 ---
 
